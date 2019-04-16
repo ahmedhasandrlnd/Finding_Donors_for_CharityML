@@ -3,9 +3,9 @@ CharityML is a fictitious charity organization located in the heart of Silicon V
 
 ## Project Description
 In this project, first we have trained three ensemble methods to predict potential donors for CharityML
-	1. Gradient Boosting
-	1. Random Forest
-	1. AdaBoost
+1. Gradient Boosting
+1. Random Forest
+1. AdaBoost
 
 We have found that Gradient Boosting gave better performance for testing dataset in terms of prediction time, accuracy and F score. 
 	![Performance Metrics](metrics.PNG)
