@@ -24,7 +24,7 @@ Later, we have optimised the Gradient Boosting model by Grid Search method. The 
 | Actual_Income<=50K |        6454           |         386          |
 | Actual_Income>50K  |        774            |        1431          |
 
-Finally we have identified five important features of our optimised model and trained a final model with reduced features.
+Finally, we have identified five important features of our optimised model and trained a final model with reduced features.
 
 ### Accuracy and F Score 
 |     Metric     | Optimized Model with full features | Optimized Model with reduced features |
