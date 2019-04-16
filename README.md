@@ -8,7 +8,6 @@ In this project, first we have trained three ensemble methods to predict potenti
 	1. AdaBoost
 
 We have found that Gradient Boosting gave better performance for testing dataset in terms of prediction time, accuracy and F score. 
-	
 	![Performance Metrics](metrics.PNG)
 
 Later, we have optimised the Gradient Boosting model by Grid Search method. The final optimised method gives the following results:
