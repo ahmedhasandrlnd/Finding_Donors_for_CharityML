@@ -32,5 +32,8 @@ Finally, we have identified five important features of our optimised model and t
 | Accuracy Score |               0.8718               |                 0.8589                |
 | F-score        |               0.7553               |                 0.7255                |
 
-
-
+## Project Structure
+1. [finding_donors.ipynb](finding_donors.ipynb)- Notebook for the project. Alternative [Viewer](https://nbviewer.jupyter.org/github/ahmedhasandrlnd/Finding_Donors_for_CharityML/blob/master/finding_donors.ipynb).
+1. [census.csv](census.csv)- The dataset for this project originates from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Census+Income).
+1. [review.pdf](review.pdf)- Project reiew by the reviewer.
+1. [visuals.py](visuals.py)- Helper file for visualization.
