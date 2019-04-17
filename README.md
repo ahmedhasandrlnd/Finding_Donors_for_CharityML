@@ -19,10 +19,10 @@ Later, we have optimised the Gradient Boosting model by Grid Search method. The 
 | F-score        |     0.7395        |   0.7553        |
 
 ### Confusion Matrix 
-|                    | Predicted_Income<=50K | Predicted_Income>50K |
+|                    | Predicted_Income>50K  | Predicted_Income<=50K|
 | :----------------: | :-------------------: | :------------------: | 
-| Actual_Income<=50K |        6454           |         386          |
-| Actual_Income>50K  |        774            |        1431          |
+| Actual_Income>50K  |        1431           |         774          |
+| Actual_Income<=50K |        386            |        6454          |
 
 Finally, we have identified five important features of our optimised model and trained a final model with reduced features.
 
